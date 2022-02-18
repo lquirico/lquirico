@@ -10,6 +10,15 @@ Actualmente soy estudiante de la carrera de Full Stack Developer, próxima a gra
 Soy una persona con una amplia capacidad de aprendizaje, aplicable en mi día a día y capaz de adaptarme a los distintos desafíos que se presenten en el camino. Siempre dispuesta a ayudar y aprender de quienes me rodean.
 
 
+
+
+**TECH SKILLSS** 💥
+
+![149678060-9d3cf5c9-bc5e-46d0-900d-0382e97d6a14](https://user-images.githubusercontent.com/89117400/154747463-39416230-3f11-4bed-9b09-b805bae4c0db.png)
+
+
+
+
 **¿Mis proyectos?** 👩‍💻
 
 **COUNTRIES APP**- Desarrollo de un SPA (Single Page Application) utilizando las siguientes tecnologias: 
@@ -33,11 +42,6 @@ Algunas de las particularidades de la aplicación son:
 - Posibilidad del usuario de crear su propia receta a través de un formulario controlado.
 
 
-
-
-**TECH SKILLSS** 💥
-
-![149678060-9d3cf5c9-bc5e-46d0-900d-0382e97d6a14](https://user-images.githubusercontent.com/89117400/154747463-39416230-3f11-4bed-9b09-b805bae4c0db.png)
 
 
 **Podes encontrarme tambien en 👇**
