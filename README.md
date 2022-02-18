@@ -1,16 +1,51 @@
-### Hi there 👋
+### Hola 👋, Mi nombre es Lucia Quirico 🥰
 
-<!--
-**lquirico/lquirico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![console log(¡Bienvenidos!) (4)](https://user-images.githubusercontent.com/89117400/154745574-e647b4ae-061c-498d-92dc-b9669434d3c8.png)
 
-Here are some ideas to get you started:
+Actualmente soy estudiante de la carrera de Full Stack Developer, próxima a graduarme, con muchas ganas de aprender de este inmenso mundo que es el de la tecnología 🌏.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**¿Qué me destaca?** 🏅
+
+Soy una persona con una amplia capacidad de aprendizaje, aplicable en mi día a día y capaz de adaptarme a los distintos desafíos que se presenten en el camino. Siempre dispuesta a ayudar y aprender de quienes me rodean.
+
+
+**¿Mis proyectos?** 👩‍💻
+
+**COUNTRIES APP**- Desarrollo de un SPA (Single Page Application) utilizando las siguientes tecnologias: 
+**Front-End**: React | Redux | Hooks | HTML | CSS Module.
+**Back-End**: Node.JS | Express.js
+**Base de datos**: PostgreSQL | Sequalize.
+Algunas de las particularidades de la aplicacion son:
+- Posibilidad de aplicar distintos criterios de filtrado a los paises que se muestran en el Home.
+- Búsqueda de paises a través de un Search Bar.
+- Posibilidad del usuario de agregar nuevas actividades turísticas a los  paises que desee a través de un formulario controlado.
+- Visibilizar los detalles de cada uno de los paises.
+
+**FOOD APP** - Desarrollo de un SPA (Single Page Application) utilizando las siguientes tecnologias: 
+**Front-End**: React | Redux | Hooks | HTML | CSS Module.
+**Back-End**: Node.JS | Express.js
+**Base de datos**: PostgreSQL | Sequalize.
+Algunas de las particularidades de la aplicación son:
+- Posibilidad de aplicar distintos tipos de filtrados a las recetas que se muestran en la pagina.
+- Visibilizar el detalle de cada receta, como puede ser sus ingredientes, su tipo de dieta, su nivel de comida saludable, etc.
+- Búsqueda de una receta en particular a través de un Search Bar.
+- Posibilidad del usuario de crear su propia receta a través de un formulario controlado.
+
+
+
+
+**TECH SKILLSS** 💥
+
+![149678060-9d3cf5c9-bc5e-46d0-900d-0382e97d6a14](https://user-images.githubusercontent.com/89117400/154747463-39416230-3f11-4bed-9b09-b805bae4c0db.png)
+
+
+**Podes encontrarme tambien en 👇**
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/lquirico)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lucia-quirico//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/luuquirico//)  
+
+
+
+
+
+
