@@ -14,7 +14,17 @@ Soy una persona con una amplia capacidad de aprendizaje, aplicable en mi día a 
 
 **TECH SKILLSS** 💥
 
-![149678060-9d3cf5c9-bc5e-46d0-900d-0382e97d6a14](https://user-images.githubusercontent.com/89117400/154747463-39416230-3f11-4bed-9b09-b805bae4c0db.png)
+✔️ JAVASCRIPT
+✔️ HTML5
+✔️ CSS
+✔️ NODE.JSS
+✔️ EXPRESS
+✔️ REACT
+✔️ REDUX
+✔️ POSTGRESQL
+✔️ SEQUELIZE
+✔️ MONGODB
+✔️ MONGOOSE
 
 
 
