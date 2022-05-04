@@ -51,6 +51,17 @@ Algunas de las particularidades de la aplicación son:
 - Búsqueda de una receta en particular a través de un Search Bar.
 - Posibilidad del usuario de crear su propia receta a través de un formulario controlado.
 
+**E-COMMERCE SPORTS-MARKET** - Desarrollo de una tienda de venta de artículos deportivos utilizando React y Redux para el Front, Material UI para el desarrollo de la UI. El trabajo en el Back se realizo con NodeJs y Express con MongoDB para el manejo de la base de datos y JWT.
+**Algunas de las características de la tienda:**
+- Visibilizar el catalogo de productos en el Home, así como también el detalle de cada producto en particular (imagen, precio, talle, stock, reviews, etc).
+- Distintos opciones de filtrado.
+- Búsqueda de un producto en particular a través de un Search Bar.
+- Posibilidad del usuario de dejar una review al producto que desee y agregarlo a favoritos.
+- Agregar ítems al carrito, realizar la compra y recibir un mail de confirmacion de la misma.
+- Posibilidad de suscribirse al Newsletter de la tienda.
+- Acceso y registro como Usuario o Administrador
+- Creación de nuevos productos a través de un formulario controlado.
+- Pago a través de Mercado Pago
 
 
 
