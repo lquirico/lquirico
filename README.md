@@ -2,7 +2,7 @@
 
 ![console log(¡Bienvenidos!) (4)](https://user-images.githubusercontent.com/89117400/154745574-e647b4ae-061c-498d-92dc-b9669434d3c8.png)
 
-Actualmente soy estudiante de la carrera de Full Stack Developer, próxima a graduarme, con muchas ganas de aprender de este inmenso mundo que es el de la tecnología 🌏.
+Soy egresada de la carrera de Full Stack Developer con muchas ganas de aprender de este inmenso mundo que es el de la tecnología 🌏.
 
 
 **¿Qué me destaca?** 🏅
