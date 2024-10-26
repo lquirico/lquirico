@@ -14,17 +14,16 @@ Soy una persona con una amplia capacidad de aprendizaje, aplicable en mi día a 
 
 **TECH SKILLSS** 💥
 
-✔️ JAVASCRIPT
-✔️ HTML5
+✔️ PHP
+✔️ HTML
 ✔️ CSS
-✔️ NODE.JSS
-✔️ EXPRESS
-✔️ REACT
-✔️ REDUX
+✔️ SQL
+✔️ SCRUM
+✔️ GIT
+✔️ LARAVEL
+✔️ PYTHON
 ✔️ POSTGRESQL
-✔️ SEQUELIZE
 ✔️ MONGODB
-✔️ MONGOOSE
 
 
 
