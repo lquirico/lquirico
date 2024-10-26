@@ -62,6 +62,42 @@ Algunas de las particularidades de la aplicación son:
 - Creación de nuevos productos a través de un formulario controlado.
 - Pago a través de Mercado Pago
 
+**PREGUNTADOS - VERSION PYTHON**
+Este proyecto es una adaptación en Python y Pygame del popular juego de preguntas y respuestas "Preguntados", desarrollado en colaboración con alumnos de la UTN. Inspirado en el original de Etermax, el juego mantiene el enfoque de trivia y ha sido ampliado con características configurables y un sistema de estadísticas.
+
+**Características principales**
+
+**Inicio del Juego:**
+- Menú con opción "Iniciar" para comenzar una partida con preguntas aleatorias de un archivo preguntas.csv.
+- Cada pregunta incluye tres posibles respuestas; una correcta y dos incorrectas.
+- Si el jugador responde incorrectamente, pierde una de sus tres oportunidades.
+
+**Fin de Partida:**
+- La partida finaliza cuando se agotan todas las oportunidades.
+- Se solicita el nombre del jugador, y los datos de la partida (nombre, puntaje, fecha) se almacenan en partidas.json.
+  
+**Top 10 de Partidas:**
+-Se muestra el ranking de las 10 partidas con mayores puntajes, incluyendo datos del jugador y su puntaje.
+
+**Integración Multimedia:**
+- Imágenes en todas las pantallas del juego.
+- Sonido de fondo con opción de ajustar el volumen o desactivar la música en el menú de configuración.
+
+**Funciones Avanzadas:**
+
+- Configuración: Ajustes de música y volumen en el menú principal.
+- Sistema de Tiempo: Temporizador que finaliza la partida si el tiempo se agota.
+- Estadísticas de Preguntas: Almacena porcentaje de aciertos, cantidad de fallos y aciertos, y frecuencia de cada pregunta en preguntas.csv.
+- Agregar Preguntas: Posibilidad de añadir preguntas nuevas, ya sea manualmente o desde otro archivo CSV.
+- Modificar Opciones de Juego: Ajuste de reglas como puntos por pregunta, número de oportunidades, respuestas posibles y tiempo disponible (si aplica).
+
+**Requerimientos técnicos**
+- Lenguajes y Bibliotecas: Python, Pygame
+- Archivos de Datos:
+   - preguntas.csv para el banco de preguntas y estadísticas.
+   - partidas.json para almacenar puntajes y datos de jugadores.
+
+Con esta implementación, el proyecto no solo ofrece una experiencia de juego, sino que también permite al usuario personalizar configuraciones clave y analizar sus resultados.
 
 
 **Podes encontrarme tambien en 👇**
